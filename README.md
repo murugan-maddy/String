@@ -1,2 +1,2 @@
-# String
-rev the  char in java 
+# String maanagement
+rev an array of string and char in java 
